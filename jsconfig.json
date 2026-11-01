@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "ignoreDeprecations": "6.0",
+    "paths": {
+      "@page-objects/*": ["./page-objects/*"],
+      "@tests/*": ["./tests/*"]
+    }
+  },
+  "exclude": ["node_modules", "test-results", "playwright-report"]
+}

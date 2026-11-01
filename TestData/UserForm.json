@@ -1,0 +1,15 @@
+{
+  "endpoint" :"",
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@example.com",
+  "gender": "Male",
+  "number": "RANDOM_10_DIGITS",
+  "dateOfBirth": "15 May 1995",
+  "subjects": ["Hindi", "Maths"],
+  "hobbies": ["Sports", "Reading"],
+  "filePath": "./PictureOfStudent.jpg",
+  "currentAddress": "123 Main Street, Bengaluru",
+  "state": "NCR",
+  "city": "Delhi"
+}
